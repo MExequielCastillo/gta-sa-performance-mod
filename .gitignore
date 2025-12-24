@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Build
+Debug/
+Release/
+x64/
+build/
+
+# Output
+*.dll
+*.asi
+*.exe
